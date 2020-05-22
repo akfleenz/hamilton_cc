@@ -36,22 +36,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_1.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -424,22 +424,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_3.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -477,22 +477,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_8.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -563,22 +563,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_0.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -616,22 +616,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_2.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -669,22 +669,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_9.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -722,22 +722,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_5.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -775,22 +775,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_7.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -828,22 +828,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_6.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
@@ -881,22 +881,22 @@
                 "title": "Esri Rest API"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.geojson?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.geojson",
                 "format": "GeoJSON",
                 "title": "GeoJSON"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.csv?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.csv",
                 "format": "CSV",
                 "title": "CSV"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.kml?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.kml",
                 "format": "KML",
                 "title": "KML"
             },
             {
-                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.zip?outSR={\"latestWkid\":2193,\"wkid\":2193}",
+                "downloadURL": "http://data-waikatolass.opendata.arcgis.com/datasets/ea97c3f9f55b4e128fcb9d77eca63095_4.zip",
                 "format": "ZIP",
                 "title": "Shapefile"
             }
