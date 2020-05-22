@@ -1,0 +1,51 @@
+{
+      "@context": "https://www.data.govt.nz/catalog.jsonld",
+      "@id": "https://www.hamilton.govt.nz/data.json",
+      "@type": "dcat:Catalog",
+      "conformsTo": "https://www.data.govt.nz/toolkit/schema",
+      "dataset":[
+    {
+        "title": "New Zealand Public Sector Websites",
+        "description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
+        "identifier": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "websites",
+            "open government",
+            "url"
+        ],
+        "publisher": {
+            "name": "Department of Internal Affairs",
+            "mbox": "info@dia.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "Business unit",
+            "hasPhone": "4123456789",
+            "hasEmail": "contact@agency.govt.nz"
+        },
+        "landingPage": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Fiscal, tax and economics",
+        "temporal": "2011-08-26/2015-04-01",
+        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[165.6298828125,-47.5468715989],[179.3408203125,-47.5468715989],[179.3408203125,-33.9068955513],[165.6298828125,-33.9068955513],[165.6298828125,-47.5468715989]]]}",
+        "distribution": [
+            {
+                "downloadURL": "https://webtoolkit.govt.nz/files/PublicSectorWebsites01April2015.csv",
+                "title": "Snapshot at 15 March 2017",
+                "format": "CSV / text",
+                "size": "58Kb"
+            },
+            {
+                "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
+                "title": "Latest dataset updates",
+                "format": "CSV",
+                "size": "68Kb"
+            },
+            {
+                "downloadURL": "https://www.govt.nz/api/v2/consultation/list",
+                "title": "A list of consultations",
+                "format": "API"
+            }
+        ]
+    }
+]}
